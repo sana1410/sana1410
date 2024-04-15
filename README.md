@@ -7,9 +7,9 @@
 
 - 👯 I’m looking to collaborate on [WiDS Datathon 2024 Challenge #2](https://www.kaggle.com/competitions/widsdatathon2024-challenge2)
 
-- 👨‍💻 All of my projects are available at [www.datascienceportfol.io/sana1410](www.datascienceportfol.io/sana1410)
+- 👨‍💻 All of my projects are available at [https://github.com/sana1410](GitHub)
 
-- 📫 How to reach me **sana.yasin14@gmail.com**
+- 📫 How to reach me **sana.yasin14@gmail.com** or **yasin.sa@northeastern.edu**,
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/sana-yasin14101992/](https://www.linkedin.com/in/sana-yasin14101992/)
 
