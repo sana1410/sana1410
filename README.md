@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [www.datascienceportfol.io/sana1410 or https://github.com/sana1410](www.datascienceportfol.io/sana1410 or https://github.com/sana1410)
 
-- 💬 Ask me about **Credit risk ,Frad detection, customer segmentation and Product Recommendations**
+- 💬 Ask me about **Credit risk ,Fraud detection, customer segmentation and Product Recommendations**
 
 - 📫 How to reach me **sana.yasin14@gmail.com** or **yasin.sa@northeastern.edu**
 
