@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Customer Segmentation - Predict Product Buying Patterns with Data Modeling**
 
-- 🌱 I’m currently learning **Image Analytics , Azure Machine learning , Azure AI services**
+- 🌱 I’m currently learning **Image Analytics , Azure MS Fabric , Azure AI services**
 
-- 👯 I’m looking to collaborate on [WiDS Datathon 2024 Challenge #2](https://www.kaggle.com/competitions/widsdatathon2024-challenge2)
+- 👯 My latest project is [Enhance your brand using YouTube](https://www.datacamp.com/datalab/w/4e64377f-a998-4c6d-a0d2-755cf1d9d576)
 
-- 👨‍💻 All of my projects are available at [www.datascienceportfol.io/sana1410 or https://github.com/sana1410](www.datascienceportfol.io/sana1410 or https://github.com/sana1410)
+- 👨‍💻 All of my projects are available at [Kaggle](https://www.kaggle.com/sanayasin1410) or [GitHub](https://github.com/sana1410)
 
 - 💬 Ask me about **Credit risk ,Fraud detection, customer segmentation and Product Recommendations**
 
