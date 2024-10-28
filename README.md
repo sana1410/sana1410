@@ -9,7 +9,7 @@
 
 <h3 align="left">Education</h3>
 <p>- Master of Professional Studies in Analytics| Northeastern University,USA (2023-2024).</p>
-- Bachelor of Technology in Electronics and Electrical Engineering | Kalinga Institute of Industrial Technology, India (2010-2014)	  
+<p>- Bachelor of Technology in Electronics and Electrical Engineering | Kalinga Institute of Industrial Technology, India (2010-2014).</p>	  
 <h3 align="left">Work Experience</h3>
 <p>-  Lead Solution advisor @ Deloitte Risk and financial advisory|(October 2021 - November 2022).</p>
 <p>-  Data Analyst@ Tata Power Delhi Distribution|(August 2019- September 2021).</p>
