@@ -9,12 +9,18 @@
 
 <h3 align="left">Education</h3>
 <p>- Master of Professional Studies in Analytics| Northeastern University,USA (2023-2024).</p>
-<p>- Bachelor of Technology in Electronics and Electrical Engineering | Kalinga Institute of Industrial Technology, India (2010-2014).</p>	  
+<p>- Bachelor of Technology in Electronics and Electrical Engineering | Kalinga Institute of Industrial Technology, India (2010-2014).</p>	
+
 <h3 align="left">Work Experience</h3>
 <p>-  Lead Solution advisor @ Deloitte Risk and financial advisory|(October 2021 - November 2022).</p>
 <p>-  Data Analyst@ Tata Power Delhi Distribution|(August 2019- September 2021).</p>
 <p>-  Big Data Engineer@ NCR Corporation |(May 2018- July 2019).</p>
 <p>-  System Engineer@ Tata Consultancy Services |(Sep 2014- Aug 2017).</p>
+
+<h3 align="left">Certifications</h3>
+<p>- Certified as Tableau Desktop specialist| Aug 2020.</p>
+<p>- Certified as [OnePointFive](https://www.opf.degree) Fellow - Sustainability Consulting Accelerator|  July 2024 – Aug 2024.</p>
+<p>- Alteryx Designer Core Certification |Oct 2024.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sana1410&label=Profile%20views&color=0e75b6&style=flat" alt="sana1410" /> </p>
 
