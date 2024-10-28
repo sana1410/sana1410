@@ -1,19 +1,34 @@
-<h1 align="left">Hi 👋, I'm Sana Yasin</h1>
-<p align="left">Experienced graduate student in Analytics at Northeastern University, specializing in Applied Machine Intelligence. With six years of diverse experience in system engineering, Big Data migration, and data analysis, I bring a wealth of expertise in BI, DW solutions, and NLP. Seeking opportunities to apply my extensive experience in data science and machine learning roles. Proven track record of collaborating cross-functionally and driving data-driven solutions to optimize product experiences and accelerate growth.</p>
+<h1 align="left">Hi 👋, Welcome To My GitHub Profile</h1>
+<p align="left">Accomplished Data Scientist boasts 7 years of background in system engineering, Big Data migration, and advanced data analysis. Combined with a Master of Professional Studies in Analytics from Northeastern University, specializing in Applied Machine Intelligence. Enthusiastic about using data science skills to address climate change.</p>
+
+<h3 align="left">Technical Expertise</h3>
+<p>Data Science ,machine learning , Data visualization, Big data and analysis, Business Intelligence</p>
+
+<h3 align="left">Domain Expertise</h3>
+<p>Air quality monitoring , Carbon removal, GHG accounting, LCA modelling</p>
+
+<h3 align="left">Education</h3>
+<p>- Master of Professional Studies in Analytics| Northeastern University,USA (2023-2024).</p>
+- Bachelor of Technology in Electronics and Electrical Engineering | Kalinga Institute of Industrial Technology, India (2010-2014)	  
+<h3 align="left">Work Experience</h3>
+<p>-  Lead Solution advisor @ Deloitte Risk and financial advisory|(October 2021 - November 2022).</p>
+<p>-  Data Analyst@ Tata Power Delhi Distribution|(August 2019- September 2021).</p>
+<p>-  Big Data Engineer@ NCR Corporation |(May 2018- July 2019).</p>
+<p>-  System Engineer@ Tata Consultancy Services |(Sep 2014- Aug 2017).</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sana1410&label=Profile%20views&color=0e75b6&style=flat" alt="sana1410" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sanayasin14" target="blank"><img src="https://img.shields.io/twitter/follow/sanayasin14?logo=twitter&style=for-the-badge" alt="sanayasin14" /></a> </p>
 
-- 🔭 I’m currently working on **Customer Segmentation - Predict Product Buying Patterns with Data Modeling**
+- 🔭 I’m currently working for a non-profit [Breathe Mongolia – Clean Air Coalition](https://www.breathemongolia.org/en)
 
-- 🌱 I’m currently learning **Image Analytics , Azure MS Fabric , Azure AI services**
+- 🌱 I’m currently learning **Time series analysis , Carbon Removal Methods , GHG Accounting**
 
-- 👯 My latest project is [Enhance your brand using YouTube](https://www.datacamp.com/datalab/w/4e64377f-a998-4c6d-a0d2-755cf1d9d576)
+- 👯 My latest project is [Advanced Customer Segmentation Strategy for Straumann LLC USA](https://github.com/sana1410/ALY6980-Capstone)
 
 - 👨‍💻 All of my projects are available at [Kaggle](https://www.kaggle.com/sanayasin1410) or [GitHub](https://github.com/sana1410)
 
-- 💬 Ask me about **Credit risk ,Fraud detection, customer segmentation and Product Recommendations**
+- 💬 Want to work on **Carbon Removal Technologies, Climate Change and Air quality monitoring**
 
 - 📫 How to reach me **sana.yasin14@gmail.com** or **yasin.sa@northeastern.edu**
 
