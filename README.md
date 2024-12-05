@@ -2,7 +2,7 @@
 <p align="left">Accomplished Data Scientist boasts 7 years of background in system engineering, Big Data migration, and advanced data analysis. Combined with a Master of Professional Studies in Analytics from Northeastern University, specializing in Applied Machine Intelligence. Enthusiastic about using data science skills to address climate change.</p>
 
 <h3 align="left">Technical Expertise</h3>
-<p>Data Science ,machine learning , Data visualization, Big data and analysis, Business Intelligence</p>
+<p>Data Science ,machine learning , Data visualization, Big data and analysis, Business Intelligence, Data Engineering</p>
 
 <h3 align="left">Domain Expertise</h3>
 <p>Air quality monitoring , Carbon removal, GHG accounting, LCA modelling</p>
@@ -18,9 +18,9 @@
 <p>-  System Engineer@ Tata Consultancy Services |(Sep 2014- Aug 2017).</p>
 
 <h3 align="left">Certifications</h3>
-<p>- Certified as Tableau Desktop specialist| Aug 2020.</p>
+<p>-Certified as [Tableau Desktop specialist](https://www.credly.com/badges/1d262461-fed0-4d38-a4ad-1fea35b271a5/linked_in_profile)| Aug 2020.</p>
 <p>- Certified as [OnePointFive](https://www.opf.degree) Fellow - Sustainability Consulting Accelerator|  July 2024 – Aug 2024.</p>
-<p>- Alteryx Designer Core Certification |Oct 2024.</p>
+<p>- [Google Advanced Data Analyst](https://www.coursera.org/account/accomplishments/professional-cert/EU70VGXFCY2Q?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof) |Oct 2024.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sana1410&label=Profile%20views&color=0e75b6&style=flat" alt="sana1410" /> </p>
 
