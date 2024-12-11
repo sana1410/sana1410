@@ -37,6 +37,8 @@
 - 💬 Want to work on **Carbon Removal Technologies, Climate Change and Air quality monitoring**
 
 - 📫 How to reach me **sana.yasin14@gmail.com** or **yasin.sa@northeastern.edu**
+  
+- My tableau portfolio is available at [Tableau Public](https://public.tableau.com/app/profile/sana.yasin)
 
 - 📄 Please find my Resume [here](https://github.com/sana1410/sana1410/blob/19858a83161b8d6309f072cdb4b12c0307714025/asset/Resume/Sana%20Yasin_Data%20Scientist_6_CV%20-cali.pdf)
 <h3 align="left">Connect with me:</h3>
