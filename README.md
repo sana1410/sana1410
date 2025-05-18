@@ -5,7 +5,7 @@
 <p>Data Science ,machine learning , Data visualization, Big data and analysis, Business Intelligence, Data Engineering</p>
 
 <h3 align="left">Domain Expertise</h3>
-<p>Air quality monitoring , Carbon removal, GHG accounting, LCA modelling</p>
+<p>Clean Energy , Sustainbility , Technology , Business Analytics</p>
 
 <h3 align="left">Education</h3>
 <p>- Master of Professional Studies in Analytics| Northeastern University,USA (2023-2024).</p>
@@ -28,7 +28,7 @@
 
 - 🔭 I’m currently working for a non-profit [Breathe Mongolia – Clean Air Coalition](https://www.breathemongolia.org/en)
 
-- 🌱 I’m currently learning **Time series analysis , Carbon Removal Methods , GHG Accounting**
+- 🌱 I’m currently learning ** Carbon Removal Methods , GHG Accounting, Clean Energy Analyst**
 
 - 👯 My latest project is [Advanced Customer Segmentation Strategy for Straumann LLC USA](https://github.com/sana1410/ALY6980-Capstone)
 
@@ -40,7 +40,7 @@
   
 - My tableau portfolio is available at [Tableau Public](https://public.tableau.com/app/profile/sana.yasin)
 
-- 📄 Please find my Resume [here](https://github.com/sana1410/sana1410/blob/19858a83161b8d6309f072cdb4b12c0307714025/asset/Resume/Sana%20Yasin_Data%20Scientist_6_CV%20-cali.pdf)
+- 📄 Please find my Resume [here](https://sana_yasin14.hackerresume.io/8855f23c-c25f-44cc-a842-d930fbd4fa01)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sanayasin14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sanayasin14" height="30" width="40" /></a>
