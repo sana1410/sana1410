@@ -1,4 +1,6 @@
 <h1 align="left">Hi 👋, Welcome To My GitHub Profile</h1>
+
+- Note :- This is old portfolio . My new portfolio has been published at [Portfolio](https://sana1410.github.io/my-portfolio/)
 <p align="left">Accomplished Data Scientist boasts 7 years of background in system engineering, Big Data migration, and advanced data analysis. Combined with a Master of Professional Studies in Analytics from Northeastern University, specializing in Applied Machine Intelligence. Enthusiastic about using data science skills to address climate change.</p>
 
 <h3 align="left">Technical Expertise</h3>
