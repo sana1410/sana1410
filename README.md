@@ -51,6 +51,18 @@ A GenAI-powered customer feedback platform that turns raw Groww Play Store revie
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Groq_API-F55036?style=flat-square"/> <img src="https://img.shields.io/badge/Qwen--27B-6F42C1?style=flat-square"/> <img src="https://img.shields.io/badge/MCP-00D09C?style=flat-square"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/> <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
 
+<h3>🍽️ Restaurant Recommendation System &nbsp;<a href="https://nextleapgenai-rbc5cysyqrm8ppuxqfonqv.streamlit.app/"><img src="https://img.shields.io/badge/🔴_Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/></a> <a href="https://github.com/sana1410/Nextleap_GenAI"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a></h3>
+
+An AI-powered restaurant recommender for Bangalore where structured filters decide eligibility and the LLM only ranks and explains a small candidate set, so restaurant facts always come from the catalog.
+
+- 🗃️ **Data pipeline:** ingests the Zomato dataset from Hugging Face into a SQLite catalog, with pinned dataset revisions and local CSV/JSON support
+- 🔎 **Smart filtering:** search by location, budget (low/medium/high), cuisine, minimum rating and free-text preferences
+- 🧠 **LLM ranking:** a Groq-hosted model (gpt-oss-120b) ranks candidates and writes explanations, with a heuristic fallback when the LLM is unavailable
+- 🛡️ **Production safeguards:** response caching, token-quota guard, per-client rate limiting and graceful degradation
+- ⚙️ **FastAPI backend** with `/meta` and `/recommendations` endpoints, tested with pytest
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Groq_API-F55036?style=flat-square"/> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+
 <h3>🦷 Advanced Customer Segmentation Strategy — Straumann LLC USA &nbsp;<a href="https://github.com/sana1410/ALY6980-Capstone"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a></h3>
 
 Capstone project at Northeastern University: segmenting customers and predicting product buying patterns with data modeling to support targeted sales and marketing strategy.
