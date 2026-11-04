@@ -40,7 +40,7 @@
 
 <h2>🚀 Projects</h2>
 
-<h3>📱 Weekly App Review Pulse — Groww &nbsp;<a href="https://nextleap-milestone3-mefgibqssthnkyueg49otr.streamlit.app/"><img src="https://img.shields.io/badge/🔴_Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/></a> <a href="https://github.com/sana1410/Nextleap-Milestone3"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a></h3>
+<h3>📱 Weekly App Review Pulse — Groww &nbsp;<a href="https://nextleap-milestone3-5mvh5muuajwmfwpbxbspqs.streamlit.app/"><img src="https://img.shields.io/badge/🔴_Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/></a> <a href="https://github.com/sana1410/Nextleap-Milestone3"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a></h3>
 
 A GenAI-powered customer feedback platform that turns raw Groww Play Store reviews into a concise, actionable weekly product pulse — fully automated from data collection to stakeholder delivery.
 
