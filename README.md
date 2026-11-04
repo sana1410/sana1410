@@ -53,7 +53,7 @@ Customer churn analysis that improved retention by 20%; SQL and ETL solutions to
 
 - My tableau portfolio is available at [Tableau Public](https://public.tableau.com/app/profile/sana.yasin)
 
-- 📄 Please find my Resume [here](https://amaranth-tabina-29.tiiny.site)
+- 📄 Please find my Resume [here](https://github.com/sana1410/sana1410/blob/main/asset/Resume/SANA_YASIN_latest_resume.pdf)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sanayasin14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sanayasin14" height="30" width="40" /></a>
